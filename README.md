@@ -2,6 +2,9 @@
 
 A technical demo showing how to connect to a [Daily.co](https://daily.co) / [Tavus](https://tavus.io) video call room and directly subscribe to participant video and audio streams, bypassing the standard join screen UI.
 
+[LIVE DEMO](https://andy-tavus.github.io/join_raw_stream/)
+
+
 ## Implementation Overview
 
 This demo leverages the [Daily.js](https://docs.daily.co/reference/daily-js) library to directly consume media streams from a Daily.co/Tavus room. The core functionality is implemented in vanilla JavaScript without additional frameworks.
